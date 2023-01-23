@@ -1,8 +1,8 @@
 {
-  "name": "slim-mom",
+  "name": "Slim-Mom-by-JERALDIC",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://VitaliyLev.github.io/slim-mom/",
+  "homepage": "https://Dmytro1117.github.io/Slim-Mom-by-JERALDIC/",
   "dependencies": {
     "@hookform/resolvers": "^2.9.10",
     "@reduxjs/toolkit": "^1.9.0",
